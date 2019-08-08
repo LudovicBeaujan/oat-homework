@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Quelle est la capitale du Luxembourg?",
+    "createdAt": "2019-06-01 00:00:00",
+    "choices": [
+      {
+        "text": "Luxembourg"
+      },
+      {
+        "text": "Paris"
+      },
+      {
+        "text": "Berlin"
+      }
+    ]
+  },
+  {
+    "text": "Que signifie O.A.T. ?",
+    "createdAt": "2019-06-02 00:00:00",
+    "choices": [
+      {
+        "text": "Technologies d'assignation ouvertes"
+      },
+      {
+        "text": "Technologies d'évaluation ouvertes"
+      },
+      {
+        "text": "Technologies de reconnaissance ouvertes"
+      }
+    ]
+  }
+]

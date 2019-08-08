@@ -1,0 +1,9 @@
+list_questions:
+    path: /questions
+    methods: [GET]
+    controller: App\Action\ListQuestionAction::__invoke
+
+add_question:
+    path: /questions
+    methods: [POST]
+    controller: App\Action\AddQuestionAction::__invoke
